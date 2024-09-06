@@ -29,3 +29,5 @@ console.log (column7)
 console.log (column8)
 console.log (column9)
 
+
+
