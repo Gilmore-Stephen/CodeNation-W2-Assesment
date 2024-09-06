@@ -27,7 +27,7 @@ console.log (column6)
 console.log (row1)
 console.log (column7)
 console.log (column8)
-console.log (column9)
+console.log (column9) 
 
 
 
