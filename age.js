@@ -1,6 +1,6 @@
 let age = 17
 let country = "uk"
-if (age >17 && country === "uk")  // funny with = and ===
+if (age >17 && country === "uk")  // funny with || = 
 {
 console.log("yes i can server you");
 }
